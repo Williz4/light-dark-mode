@@ -21,6 +21,10 @@
   --background: #121212;
 }
 
+*{
+  transition: background 1s ease;
+}
+
 html {
   box-sizing: border-box;
   scroll-behavior: smooth;
