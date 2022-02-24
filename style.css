@@ -263,3 +263,8 @@ input:checked + .slider::before {
   font-size: 30px;
   margin-right: 5px;
 }
+
+#text-box {
+  background: var(--on-background);
+  color: var(--background);
+}
